@@ -132,3 +132,12 @@ java.io.FileNotFoundException: C:\git workspace y\.metadata\.plugins\org.eclipse
 	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1165)
 	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-07-03 08:38:19.515
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-eclipse-release/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-07-03 08:38:23.993
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-07-03 08:40:47.600
+!MESSAGE No repository found at http://rlogiacco.github.com/Natural.
